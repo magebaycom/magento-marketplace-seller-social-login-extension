@@ -16,4 +16,8 @@ Read more [Magento Multi Vendor](https://www.magebay.com/magento-multi-vendor-ma
 
 This plugin is very useful for your online marketplace website. It helps Vendor / Seller saves time to create account or login to his seller dashboard. If the Vendors has actually logged on to their social accounts themselves. Then Vendors just need click to button social login then the module will automatically use the information from their social account to log in to Marketplace store.
 
+After the vendor selects the social login channel, the popup login will appear and they just need to enter their username and password to log in to your website.
+
+As the market owner, you can configure any function of social login, disable or enable any features or set different positions of the button login.
+
 Related plugin: [Magento Marketplace Membership Extension](https://github.com/magebaycom/magento-marketplace-membership-extension)
